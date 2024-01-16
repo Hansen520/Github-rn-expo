@@ -1,0 +1,58 @@
+[
+    {
+      "path": "stars:>1",
+      "name": "ALL",
+      "short_name": "ALL",
+      "checked": true
+    },
+    {
+      "path": "iOS",
+      "name": "iOS",
+      "checked": true
+    },
+    {
+      "path": "react-native",
+      "name": "React Native",
+      "checked": true
+    },
+    {
+      "path": "MySQL",
+      "name": "MySQL",
+      "checked": false
+    },
+    {
+      "path": "AngularJS",
+      "name": "AngularJS",
+      "checked": true
+    },
+    {
+      "path": "jQuery",
+      "name": "jQuery",
+      "checked": false
+    },
+    {
+      "path": "react",
+      "name": "React",
+      "checked": true
+    },
+    {
+      "path": "vue",
+      "name": "Vue",
+      "checked": true
+    },
+    {
+      "path": "electron",
+      "name": "electron",
+      "checked": true
+    },
+    {
+      "path": "nextJs",
+      "name": "Next",
+      "checked": true
+    },
+    {
+      "path": "front end interview",
+      "name": "interview",
+      "checked": true
+    }
+  ]
